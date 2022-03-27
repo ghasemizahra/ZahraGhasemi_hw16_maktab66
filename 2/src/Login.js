@@ -12,11 +12,11 @@ export default function Login() {
   const [isSubmitted, setIsSubmitted] = useState(false);
   const database = [
     {
-      email: "razieh@gmail.com",
+      email: "zahraghasemi@gmail.com",
       password: "1234"
     },
     {
-      email: "izanloo@gmail.com",
+      email: "zahraghasemi@gmail.com",
       password: "1234"
     }
   ];
